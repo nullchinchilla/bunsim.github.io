@@ -39,11 +39,11 @@ body {
 }
 
 body:lang(zh-tw) {
-    font-family: "SSP", "Noto Sans CJK TW", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
+    font-family: "SSP", "Noto Sans CJK TC","Noto Sans TC", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
 }
 
 body:lang(ja) {
-    font-family: "SSP", "Noto Sans CJK JP", "Source Han Sans JP", "Meiryo", sans-serif;
+    font-family: "SSP", "Noto Sans CJK JP", "Noto Sans JP", "Source Han Sans JP", "Meiryo", sans-serif;
 }
 
 .big-title {
