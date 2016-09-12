@@ -12,13 +12,42 @@ pre {
     width: inherit;
 }
 
+@font-face {
+    font-family: "SSP";
+    src: url("/fonts/SourceSansPro-Regular.ttf.woff");
+}
+@font-face {
+    font-family: "SSP";
+    src: url("/fonts/SourceSansPro-Bold.ttf.woff");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "SSP";
+    src: url("/fonts/SourceSansPro-It.ttf.woff");
+    font-style: italic;
+}
+@font-face {
+    font-family: "SSP";
+    src: url("/fonts/SourceSansPro-BoldIt.ttf.woff");
+    font-weight: bold;
+    font-style: italic;
+}
 
 body {
     background-color: #eeeeee;
+    font-size: 12pt;
+}
+
+body:lang(zh-tw) {
+    font-family: "SSP", "Noto Sans CJK TW", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
+}
+
+body:lang(ja) {
+    font-family: "SSP", "Noto Sans CJK JP", "Source Han Sans JP", "Meiryo", sans-serif;
 }
 
 .big-title {
-    font-size: 32pt;
+    font-size: 300%;
 }
 
 .big-title a:link {
