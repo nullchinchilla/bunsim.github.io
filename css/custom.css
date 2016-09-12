@@ -36,14 +36,12 @@ pre {
 body {
     background-color: #eeeeee;
     font-size: 12pt;
+    font-family: "SSP", "Noto Sans CJK TC", "Noto Sans TC", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
 }
 
-body:lang(zh-tw) {
-    font-family: "SSP", "Noto Sans CJK TC","Noto Sans TC", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
-}
-
-body:lang(ja) {
+:lang(ja) {
     font-family: "SSP", "Noto Sans CJK JP", "Noto Sans JP", "Source Han Sans JP", "Meiryo", sans-serif;
+    color:red;
 }
 
 .big-title {
