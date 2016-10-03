@@ -5,14 +5,15 @@
     <title>文尋的網誌</title>
     <meta name="description" content="文尋的網誌">
     <meta name="author"      content="文尋">
-    <meta name="keywords"    content="foo, baz, tag with spaces, all, bar">
+    <meta name="keywords"    content="all, 通知">
     <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="icon"      href="/favicon.ico">
     <link rel="canonical" href="http://www.example.com/index.html">
 
 
     <!-- CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/pygments.css">
     <link rel="stylesheet" type="text/css" href="/css/scribble.css">
     <link rel="stylesheet" type="text/css" href="/css/custom.css">
@@ -28,6 +29,7 @@
       <div class="row">
         <div class="col-md-12">
           <h1 class="big-title"><a href="/">文尋的網誌</a></h1>
+          <hr>
         </div>
       </div>
 
@@ -35,70 +37,59 @@
         <!-- Main column -->
         <div id="content" class="col-md-8">
 
-          <h1>Welcome</h1>
-          <p>Here is some text that only goes on the home page,
-            because <code>@uri-path</code> is
-            <code>/index.html</code>.</p> 
+
 
 
 
           <article>
   <header>
-    <h2><a href='/2012/01/a-2012-blog-post.html'>A 2012 blog post</a></h2>
+    <h2><a href='/2016/10/本網誌的目的.html'>本網誌的目的</a></h2>
     <p class='date-and-tags'>
-<time datetime="2012-01-01" pubdate="true">2012-01-01</time> :: <span class="tags"><a href="/tags/foo.html">foo</a>, <a href="/tags/bar.html">bar</a>, <a href="/tags/tag-with-spaces.html">tag with spaces</a>, <a href="/tags/baz.html">baz</a></span></p>
+<time datetime="2016-10-01" pubdate="true">2016-10-01</time> :: <span class="tags"><a href="/tags/通知.html">通知</a></span></p>
   </header>
 
-<p>Here is an example blog post.</p>
+<p>發佈一個網誌，不是我第一回了。一次再一次，我立志買下一塊網頁空間，在自己開拓的虛擬領土上暢談每日的心得。但當我開始敲打鍵盤，文字一點一點地出現在眼前的熒幕上時，無一例外，我便發覺，想說的話都已經在網路的某個其他角落——轉瞬即逝的即時消息、七嘴八舌的臉書新聞討論組、爭先恐後的文章評論區——說得所剩無幾了。「重複」寫作的動力一消失，網誌也就不了了之了。</p>
 
-<p>如果蔡果真在本週末後當選總統，我覺得她該認真想想的人物是重慶時代的蔣介石。若民進黨重新執政，必定面對北京的步步進逼。形式相近的威逼，抗戰時期的蔣介石都以更慘烈的方式面對過。</p>
-
-<p><span lang="ja">語源は、イタリア語のペペローネ peperone の複数形ペペローニ peperoni である。イタリア語のペペローネ（ペペローニ）は唐辛子やピーマンのことだが、ペパロニはそれをスパイスとして使ったサラミを意味するようになった。</span></p>
-
-<p>Everything after this paragraph &ldquo;after the break&rdquo;. On index pages and Atom feeds, it will become &ldquo;Continue reading&hellip;&rdquo;, if you configure them to include only the summary &ldquo;blurb&rdquo; before the break.</p>
-
-<pre><code>some code</code></pre>
-  <footer>
-    <a href='/2012/01/a-2012-blog-post.html'>&hellip; 顯示更多 &hellip;</a>
-  </footer>
 </article>
         </div>
 
         <div class="col-md-4">
-          <h4>站內搜索</h4>
+          <h5>站內搜尋（DDG）</h5>
           <p>
-            <form>
+            <form method="get" id="search">
               <div class="form-group">
-                <input type="search" name="query" class="form-control">
+                <input type="search" id="search-q" class="form-control">
               </div>
             </form>
           </p>
-          <h4>分類</h4>
-          <ul class="list-unstyled">
+          <h5>分類標籤</h5>
+          <ul>
 
-<li><a href="/tags/bar.html">bar</a></li>
-
-<li><a href="/tags/baz.html">baz</a></li>
-
-<li><a href="/tags/foo.html">foo</a></li>
-
-<li><a href="/tags/tag-with-spaces.html">tag with spaces</a></li>
+<li><a href="/tags/通知.html">通知</a></li>
           </ul>
         </div>
 
       </div>
       <footer>
         <hr />
-        <p>Site generated
-        by <a href="https://github.com/greghendershott/frog">Frog</a>,
-        the <strong>fr</strong>ozen bl<strong>og</strong> tool.</p>
+        <p>
+          所有文章版權按
+          <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW">CC-BY-NC-ND</a> <br>
+          <small>簡而言之，轉載必須<b>標示作者</b>，<b>非商業性</b>，並<b>不做改動</b></small>
+        </p>
       </footer>
     </div>
     <!-- </body> JS -->
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
-    <script src="/js/tongwen/tongwen_core.js"></script>
-    <script src="/js/tongwen/tongwen_table_t2s.js"></script>
-    <script src="/js/tongwen/tongwen_table_pt2s.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js"></script>
+    <script>
+    $("#search").on('submit', function() {
+      var quer = $("#search-q").val();
+      var url = "https://duckduckgo.com/?q=site:bunsim.me+" + quer;
+      window.open(url, "_blank");
+      return false
+    });
+    </script>
   </body>
 </html>

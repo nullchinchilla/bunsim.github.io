@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <rss version="2.0">
  <channel>
-  <title>文尋的網誌: 文尋的網誌</title>
-  <description>文尋的網誌: 文尋的網誌</description>
-  <link>http://www.example.com/index.html</link>
+  <title>文尋的網誌: Posts tagged '通知'</title>
+  <description>文尋的網誌: Posts tagged '通知'</description>
+  <link>http://www.example.com/tags/通知.html</link>
   <lastBuildDate>Sat, 01 Oct 2016 04:00:00 UT</lastBuildDate>
   <pubDate>Sat, 01 Oct 2016 04:00:00 UT</pubDate>
   <ttl>1800</ttl>
