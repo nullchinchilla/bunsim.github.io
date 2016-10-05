@@ -4,14 +4,21 @@
  <link rel="self" href="http://www.example.com/feeds/all.atom.xml" />
  <link href="http://www.example.com/index.html" />
  <id>urn:http-www-example-com:-index-html</id>
- <updated>2016-10-01T04:00:00Z</updated>
+ <updated>2016-10-04T04:00:00Z</updated>
  <entry>
-  <title type="text">本網誌的目的</title>
-  <link rel="alternate" href="http://www.example.com/2016/10/本網誌的目的.html" />
-  <id>urn:http-www-example-com:-2016-10-本網誌的目的-html</id>
-  <published>2016-10-01T04:00:00Z</published>
-  <updated>2016-10-01T04:00:00Z</updated>
+  <title type="text">爲何又開始一個網誌？</title>
+  <link rel="alternate" href="http://www.example.com/2016/10/爲何又開始一個網誌.html" />
+  <id>urn:http-www-example-com:-2016-10-爲何又開始一個網誌-html</id>
+  <published>2016-10-04T04:00:00Z</published>
+  <updated>2016-10-04T04:00:00Z</updated>
   <author>
    <name>文尋</name></author>
   <content type="html">&lt;html&gt;
-&lt;p&gt;發佈一個網誌，不是我第一回了。一次再一次，我立志買下一塊網頁空間，在自己開拓的虛擬領土上暢談每日的心得。但當我開始敲打鍵盤，文字一點一點地出現在眼前的熒幕上時，無一例外，我便發覺，想說的話都已經在網路的某個其他角落——轉瞬即逝的即時消息、七嘴八舌的臉書新聞討論組、爭先恐後的文章評論區——說得所剩無幾了。「重複」寫作的動力一消失，網誌也就不了了之了。&lt;/p&gt;&lt;/html&gt;</content></entry></feed>
+&lt;p&gt;發佈新網誌的第一條，不是我第一回了。一次再一次，我立志買下一塊網頁空間，在自己開拓的虛擬領土上分享日常的心得。但當我開始敲打鍵盤，文字一點一點地出現在眼前的熒幕上時，無一例外，我便發覺，想說的話都已經在互聯網的某個其他角落——轉瞬即逝的即時消息、七嘴八舌的臉書新聞討論組、爭先恐後的文章評論區——說得所剩無幾了。「重複」寫作的動力一消失，網誌也就不了了之了。我是否又要再一次重蹈覆轍呢？&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;p&gt;我之前在網上的寫作，大部分並不使用我的母語中文。我雖生在，並一度長在中國大陸，在接觸到海外多如海砂般的高質量網上社羣後，國內的各種網站上的互動顯得十分空虛與無趣。在我當時小小年紀的潛意識中，大陸網站上的那種惡性文化，先入爲主地將「中文」加「網絡」定義爲「低俗」與「封閉」。在我爲了上學而移居海外後，連日常生活中也再也不需要「百度一下」或「掃一掃」了。我一度電腦上連中文輸入法都懶得裝。&lt;/p&gt;
+
+&lt;p&gt;但我逐漸意識到，中文網絡的問題根本和「中文」這個語言毫不相干，而是出在寫中文的每一個參與者上。憤慨地拋棄中文網絡的人越多，那使他們厭惡的文化病態只會越嚴重。我決定不應該繼續對現狀持輕蔑與規避的態度袖手旁觀，而是通過自己的寫作，試圖使這亂象稀釋一點，哪怕僅僅是一點。&lt;/p&gt;
+
+&lt;p&gt;而我，一點也不缺少還沒有來得及用中文說過的話。&lt;/p&gt;&lt;/html&gt;</content></entry></feed>
