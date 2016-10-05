@@ -39,12 +39,17 @@ body {
     font-family: "SSP", "Noto Sans CJK TC", "Noto Sans TC", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
 }
 
+h1 {
+    font-size: 2rem;
+}
+
 :lang(ja) {
     font-family: "SSP", "Noto Sans CJK JP", "Noto Sans JP", "Source Han Sans JP", "Meiryo", sans-serif;
 }
 
 .big-title {
     font-size: 300%;
+    padding-top: 40px;
 }
 
 .big-title a:link {

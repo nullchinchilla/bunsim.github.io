@@ -7,12 +7,13 @@
     <meta name="author"      content="@|author|">
     <meta name="keywords"    content="@|keywords|">
     <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="icon"      href="@|uri-prefix|/favicon.ico">
     <link rel="canonical" href="@|full-uri|">
     @(when rel-next @list{<link rel="next" href="@|rel-next|">})
     @(when rel-prev @list{<link rel="prev" href="@|rel-prev|">})
     <!-- CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="@|uri-prefix|/css/pygments.css">
     <link rel="stylesheet" type="text/css" href="@|uri-prefix|/css/scribble.css">
     <link rel="stylesheet" type="text/css" href="@|uri-prefix|/css/custom.css">
@@ -28,6 +29,7 @@
       <div class="row">
         <div class="col-md-12">
           <h1 class="big-title"><a href="/">文尋的網誌</a></h1>
+          <hr>
         </div>
       </div>
 
@@ -39,11 +41,7 @@
           @(when (string-ci=? uri-path
                               (string-append uri-prefix
                                              "/index.html"))
-            @list{
-              <h1>Welcome</h1>
-              <p>Here is some text that only goes on the home page,
-                because <code>@"@"uri-path</code> is
-                <code>/index.html</code>.</p> })
+            @list{})
           @;{ Index pages for posts have @tag that's not #f }
           @(when tag
             @list{<h1>標籤為「@|tag|」的貼文</h1>})
@@ -52,16 +50,16 @@
         </div>
 
         <div class="col-md-4">
-          <h4>站內搜索</h4>
+          <h5>站內搜尋（DDG）</h5>
           <p>
-            <form>
+            <form method="get" id="search">
               <div class="form-group">
-                <input type="search" name="query" class="form-control">
+                <input type="search" id="search-q" class="form-control">
               </div>
             </form>
           </p>
-          <h4>分類</h4>
-          <ul class="list-unstyled">
+          <h5>分類標籤</h5>
+          <ul>
             @tags-list-items
           </ul>
         </div>
@@ -69,16 +67,24 @@
       </div>
       <footer>
         <hr />
-        <p>Site generated
-        by <a href="https://github.com/greghendershott/frog">Frog</a>,
-        the <strong>fr</strong>ozen bl<strong>og</strong> tool.</p>
+        <p>
+          所有文章版權按
+          <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW">CC-BY-NC-ND</a> <br>
+          <small>簡而言之，轉載必須<b>標示作者</b>，<b>非商業性</b>，並<b>不做改動</b></small>
+        </p>
       </footer>
     </div>
     <!-- </body> JS -->
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script type="text/javascript" src="@|uri-prefix|/js/bootstrap.min.js"></script>
-    <script src="@|uri-prefix|/js/tongwen/tongwen_core.js"></script>
-    <script src="@|uri-prefix|/js/tongwen/tongwen_table_t2s.js"></script>
-    <script src="@|uri-prefix|/js/tongwen/tongwen_table_pt2s.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js"></script>
+    <script>
+    $("#search").on('submit', function() {
+      var quer = $("#search-q").val();
+      var url = "https://duckduckgo.com/?q=site:bunsim.me+" + quer;
+      window.open(url, "_blank");
+      return false
+    });
+    </script>
   </body>
 </html>
