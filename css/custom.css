@@ -47,6 +47,10 @@ h1 {
     font-family: "SSP", "Noto Sans CJK JP", "Noto Sans JP", "Source Han Sans JP", "Meiryo", sans-serif;
 }
 
+.blockquote {
+    border-left-color: #dddddd;
+}
+
 .big-title {
     font-size: 300%;
     padding-top: 40px;
