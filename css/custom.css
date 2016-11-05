@@ -39,14 +39,6 @@ body {
     font-family: "SSP", "Noto Sans CJK TC", "Noto Sans TC", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
 }
 
-.figure {
-    width:100%;
-}
-
-.blockquote {
-    border-left-color: #cccccc;
-}
-
 h1 {
     font-size: 2rem;
 }
