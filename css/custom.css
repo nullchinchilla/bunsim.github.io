@@ -39,12 +39,20 @@ body {
     font-family: "SSP", "Noto Sans CJK TC", "Noto Sans TC", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
 }
 
+.text-muted {
+    color: #777777 !important;
+}
+
 h1 {
     font-size: 2rem;
 }
 
 :lang(ja) {
     font-family: "SSP", "Noto Sans CJK JP", "Noto Sans JP", "Source Han Sans JP", "Meiryo", sans-serif;
+}
+
+:lang(zh-cn) {
+    font-family: "SSP", "Noto Sans CJK SC", "Noto Sans SC", "Source Han Sans SC", "Microsoft Yahei", sans-serif;
 }
 
 .blockquote {

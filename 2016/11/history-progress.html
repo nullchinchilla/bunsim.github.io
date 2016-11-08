@@ -1,5 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-tw">
+<!--[if lt IE 7 ]> <body class="ie6" lang="zh-tw"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7" lang="zh-tw"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8" lang="zh-tw"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie9" lang="zh-tw"> <![endif]-->
+<!--[if (gt IE 9)]><body class="modern" lang="zh-tw"> <![endif]-->
+<!--[!(IE)]><!-->  <body class="notIE modern" lang="zh-tw"> <!--<![endif]-->
   <head>
     <meta charset="utf-8">
     <title>無情的歷史狂輪</title>
@@ -28,8 +33,15 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1 class="big-title"><a href="/">文尋的網誌</a></h1>
+          <h1 class="big-title no-translit"><a href="/">文尋的網誌</a></h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
           <hr>
+        </div>
+        <div class="col-lg-12 text-xs-right">
+          <a href="javascript:trans2simp()" lang="zh-cn">转换为简体中文</a>
         </div>
       </div>
 
@@ -44,7 +56,7 @@
           <article>
   <header>
     <h1>無情的歷史狂輪</h1>
-    <p class='date-and-tags'>
+    <p class='date-and-tags no-translit'>
 <time datetime="2016-11-04" pubdate="true">2016-11-04</time> :: <span class="tags"><a href="/tags/歷史.html">歷史</a>, <a href="/tags/政治.html">政治</a></span></p>
   </header>
 
@@ -104,7 +116,7 @@
             </form>
           </p>
           <h5>分類標籤</h5>
-          <ul>
+          <ul class="no-translit">
 
 <li><a href="/tags/政治.html">政治</a></li>
 
@@ -136,5 +148,9 @@
       return false
     });
     </script>
+    <script src="/js/tongwen/tongwen_core.js"></script>
+    <script src="/js/tongwen/tongwen_table_t2s.js"></script>
+    <script src="/js/tongwen/tongwen_table_pt2s.js"></script>
+    <script src="/js/custom.js"></script>
   </body>
 </html>

@@ -1,7 +1,17 @@
     Title: 《你的名字》觀後隨想（暫定）
     Date: 2016-11-07T00:00:00
-    Tags: 歷史,政治
+    Tags: 電影,日本
 
+
+#### 創紀錄的票房奇蹟
+
+著名的日本動畫家新海誠（<ruby lang="ja"><rb>新海</rb><rt>しんかい</rt></ruby> <ruby lang="ja"><rb>誠</rb><rt>まこと</rt></ruby>）的最新作品《你的名字》</span>（<span lang="ja">『<ruby><rb>君</rb><rt>きみ</rt></ruby>の<ruby><rb>名</rb><rt>な</rt></ruby>は。』</span>）最近成爲（？萬人矚目的話題？）。這部動畫電影8月26日在日本公映後，連續9週票房第一，累計到目前爲止觀影人次超過1320萬人，票房收入超過179.7億日圓，成爲非宮崎駿導演的動畫電影中首個突破100億的（？？）。10月21日在台灣上映後，也在短短一週內成爲台灣史上最賣座的日本動畫電影。</p>
+
+<img src="/img/kiminonawa-sunadokei.jpg" class="img-fluid img-rounded d-block m-x-auto">
+
+《你的名字》的受歡迎程度，是超乎所有人想象的。新海誠之前導演的電影中，票房最成功的是2013年發佈，收入1.5億日圓的《言葉之庭》※（<span lang="ja"><ruby><rb>言</rb><rt>こと</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>の<ruby><rb>庭</rb><rt>にわ</rt></ruby></span>）；這一次製作委員會給自己定的票房目標只不過是《言葉之庭》的10倍，15億日圓。
+
+<small class="text-muted">※這是正式譯名，但這種機械式轉寫，導致名稱在漢語裏沒有任何意義。「<span lang="ja">言の葉</span>」是帶有古文詩歌味道的詞，意思是「詞彙」，而「<span lang="ja">庭</span>」指「花園」。的確不好翻譯，《單詞的花園》在漢語聽起來很奇怪，也丟失了原文中「<span lang="ja">葉</span>」的雙關語。</small>
 
 （有人說劇情是弱點，效果是優點，等等）
 
