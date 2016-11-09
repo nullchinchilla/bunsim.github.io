@@ -1,11 +1,12 @@
 <article>
+  <hr>
   <header>
-    <h2 class="translit"><a href='@|uri-path|'>@|title|</a></h2>
-    <p class='date-and-tags'>@|date| :: @|tags|</p>
+    <h2><a href='@|uri-path|'>@|title|</a></h2>
+    <div class='date-and-tags'><span class="text-muted translit">寫作日期：@|date|</span></div>
   </header>
-  @|content-only|
+  <!-- @|content-only|
   @(when more?
-    @list{<footer>
-            <a href='@|uri-path|'>&hellip; 顯示更多 &hellip;</a>
-          </footer>})
+    @list{<footer class="translit">
+            <a href='@|uri-path|'>&hellip; 繼續閱讀 &hellip;</a>
+          </footer>}) -->
 </article>

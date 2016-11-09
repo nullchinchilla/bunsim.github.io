@@ -1,10 +1,12 @@
+<hr>
 <article>
   <header>
     <h1>@|title|</h1>
-    <p class='date-and-tags no-translit'>@|date| :: @|tags|</p>
+    <div class='date-and-tags'><span class="text-muted translit">寫作日期：@|date|</span></div>
   </header>
   @|content|
   <footer>
+    <p class="text-muted"><small>標籤：<span class="no-translit">@|tags|</span></small></p>
     @disqus-comments["bunsim"]
     @older/newer-links[older-uri older-title newer-uri newer-title]
   </footer>
