@@ -32,6 +32,7 @@ function trans2simp() {
     $("h3").each(translit);
     $("h4").each(translit);
     $("h5").each(translit);
+    $("figcaption").each(translit);
 
     restorent();
 }

@@ -43,6 +43,10 @@ body {
     color: #777777 !important;
 }
 
+.figure-caption {
+    color: #555555 !important;
+}
+
 h1 {
     font-size: 2rem;
 }
