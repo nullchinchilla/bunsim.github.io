@@ -34,7 +34,7 @@ pre {
 }
 
 body {
-    background-color: #eeeeee;
+    background-color: #f2f2f2;
     font-size: 12pt;
     font-family: "SSP", "Noto Sans CJK TC", "Noto Sans TC", "Source Han Sans TW", "Microsoft JhengHei", sans-serif;
 }
@@ -44,7 +44,7 @@ body {
 }
 
 .figure-caption {
-    color: #555555 !important;
+    color: #222222 !important;
 }
 
 h1 {
