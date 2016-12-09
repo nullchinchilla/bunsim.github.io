@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
  <title type="text">文尋的網誌: Posts tagged '日本'</title>
- <link rel="self" href="http://www.example.com/feeds/日本.atom.xml" />
- <link href="http://www.example.com/tags/日本.html" />
- <id>urn:http-www-example-com:-tags-日本-html</id>
+ <link rel="self" href="https://bunsim.me/feeds/日本.atom.xml" />
+ <link href="https://bunsim.me/tags/日本.html" />
+ <id>urn:https-bunsim-me:-tags-日本-html</id>
  <updated>2016-12-08T15:00:00Z</updated>
  <entry>
   <title type="text">影評：《你的名字》</title>
-  <link rel="alternate" href="http://www.example.com/2016/12/kiminonawa.html" />
-  <id>urn:http-www-example-com:-2016-12-kiminonawa-html</id>
+  <link rel="alternate" href="https://bunsim.me/2016/12/kiminonawa.html" />
+  <id>urn:https-bunsim-me:-2016-12-kiminonawa-html</id>
   <published>2016-12-08T15:00:00Z</published>
   <updated>2016-12-08T15:00:00Z</updated>
   <author>

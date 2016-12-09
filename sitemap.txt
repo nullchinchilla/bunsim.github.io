@@ -1,4 +1,4 @@
-http://www.example.com/2016/10/begin.html
-http://www.example.com/2016/11/history-progress.html
-http://www.example.com/2016/12/kiminonawa.html
-http://www.example.com/About.html
+https://bunsim.me/2016/10/begin.html
+https://bunsim.me/2016/11/history-progress.html
+https://bunsim.me/2016/12/kiminonawa.html
+https://bunsim.me/About.html

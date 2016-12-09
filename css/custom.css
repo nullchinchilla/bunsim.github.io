@@ -75,7 +75,3 @@ h1 {
 .big-title a:visited {
     color:inherit;
 }
-
-html.touch *:hover {
-    pointer-events: none !important;
-}

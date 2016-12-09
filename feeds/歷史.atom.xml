@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
  <title type="text">文尋的網誌: Posts tagged '歷史'</title>
- <link rel="self" href="http://www.example.com/feeds/歷史.atom.xml" />
- <link href="http://www.example.com/tags/歷史.html" />
- <id>urn:http-www-example-com:-tags-歷史-html</id>
+ <link rel="self" href="https://bunsim.me/feeds/歷史.atom.xml" />
+ <link href="https://bunsim.me/tags/歷史.html" />
+ <id>urn:https-bunsim-me:-tags-歷史-html</id>
  <updated>2016-11-03T15:00:00Z</updated>
  <entry>
   <title type="text">無情的歷史狂輪</title>
-  <link rel="alternate" href="http://www.example.com/2016/11/history-progress.html" />
-  <id>urn:http-www-example-com:-2016-11-history-progress-html</id>
+  <link rel="alternate" href="https://bunsim.me/2016/11/history-progress.html" />
+  <id>urn:https-bunsim-me:-2016-11-history-progress-html</id>
   <published>2016-11-03T15:00:00Z</published>
   <updated>2016-11-03T15:00:00Z</updated>
   <author>

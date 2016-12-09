@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
  <title type="text">文尋的網誌: 文尋的網誌</title>
- <link rel="self" href="http://www.example.com/feeds/all.atom.xml" />
- <link href="http://www.example.com/index.html" />
- <id>urn:http-www-example-com:-index-html</id>
+ <link rel="self" href="https://bunsim.me/feeds/all.atom.xml" />
+ <link href="https://bunsim.me/index.html" />
+ <id>urn:https-bunsim-me:-index-html</id>
  <updated>2016-12-08T15:00:00Z</updated>
  <entry>
   <title type="text">影評：《你的名字》</title>
-  <link rel="alternate" href="http://www.example.com/2016/12/kiminonawa.html" />
-  <id>urn:http-www-example-com:-2016-12-kiminonawa-html</id>
+  <link rel="alternate" href="https://bunsim.me/2016/12/kiminonawa.html" />
+  <id>urn:https-bunsim-me:-2016-12-kiminonawa-html</id>
   <published>2016-12-08T15:00:00Z</published>
   <updated>2016-12-08T15:00:00Z</updated>
   <author>
@@ -139,8 +139,8 @@
  &lt;small class="text-muted"&gt;※電影台詞&lt;/small&gt;&lt;/p&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">無情的歷史狂輪</title>
-  <link rel="alternate" href="http://www.example.com/2016/11/history-progress.html" />
-  <id>urn:http-www-example-com:-2016-11-history-progress-html</id>
+  <link rel="alternate" href="https://bunsim.me/2016/11/history-progress.html" />
+  <id>urn:https-bunsim-me:-2016-11-history-progress-html</id>
   <published>2016-11-03T15:00:00Z</published>
   <updated>2016-11-03T15:00:00Z</updated>
   <author>
@@ -172,8 +172,8 @@
 &lt;p&gt;我們太容易妄想，世界潮流一定是前進的，賞善罰惡的，總有一天會用事實使惡者淪爲笑柄。但歷史的狂輪是冷酷無情，反覆無常的。它有時似乎帶動全球的正義覺醒，轉身則用邪惡的陰影遮蓋天下。我們需要紀念而學習的，不應只是那些因時間的巧合得以自稱推動歷史，而更該是那些爲了堅持維護正義而與浩浩蕩蕩的世界潮流孤軍奮戰，甚至最終被歷史車輪碾地粉身碎骨，遺臭千年的「反動分子」。&lt;/p&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">爲何又開始一個網誌？</title>
-  <link rel="alternate" href="http://www.example.com/2016/10/begin.html" />
-  <id>urn:http-www-example-com:-2016-10-begin-html</id>
+  <link rel="alternate" href="https://bunsim.me/2016/10/begin.html" />
+  <id>urn:https-bunsim-me:-2016-10-begin-html</id>
   <published>2016-10-03T15:00:00Z</published>
   <updated>2016-10-03T15:00:00Z</updated>
   <author>
