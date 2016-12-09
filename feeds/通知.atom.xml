@@ -4,13 +4,13 @@
  <link rel="self" href="http://www.example.com/feeds/通知.atom.xml" />
  <link href="http://www.example.com/tags/通知.html" />
  <id>urn:http-www-example-com:-tags-通知-html</id>
- <updated>2016-10-04T04:00:00Z</updated>
+ <updated>2016-10-03T15:00:00Z</updated>
  <entry>
   <title type="text">爲何又開始一個網誌？</title>
   <link rel="alternate" href="http://www.example.com/2016/10/begin.html" />
   <id>urn:http-www-example-com:-2016-10-begin-html</id>
-  <published>2016-10-04T04:00:00Z</published>
-  <updated>2016-10-04T04:00:00Z</updated>
+  <published>2016-10-03T15:00:00Z</published>
+  <updated>2016-10-03T15:00:00Z</updated>
   <author>
    <name>文尋</name></author>
   <content type="html">&lt;html&gt;

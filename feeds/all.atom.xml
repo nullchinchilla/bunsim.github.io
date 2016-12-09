@@ -4,13 +4,145 @@
  <link rel="self" href="http://www.example.com/feeds/all.atom.xml" />
  <link href="http://www.example.com/index.html" />
  <id>urn:http-www-example-com:-index-html</id>
- <updated>2016-11-04T04:00:00Z</updated>
+ <updated>2016-12-08T15:00:00Z</updated>
+ <entry>
+  <title type="text">影評：《你的名字》</title>
+  <link rel="alternate" href="http://www.example.com/2016/12/kiminonawa.html" />
+  <id>urn:http-www-example-com:-2016-12-kiminonawa-html</id>
+  <published>2016-12-08T15:00:00Z</published>
+  <updated>2016-12-08T15:00:00Z</updated>
+  <author>
+   <name>文尋</name></author>
+  <content type="html">&lt;html&gt;
+&lt;h4 id="超乎想象的票房奇蹟"&gt;超乎想象的票房奇蹟&lt;/h4&gt;
+
+&lt;p&gt;日本動畫家新海誠（
+ &lt;ruby lang="ja"&gt;
+  &lt;rb&gt;新海&lt;/rb&gt;
+  &lt;rt&gt;しんかい&lt;/rt&gt;&lt;/ruby&gt; 
+ &lt;ruby lang="ja"&gt;
+  &lt;rb&gt;誠&lt;/rb&gt;
+  &lt;rt&gt;まこと&lt;/rt&gt;&lt;/ruby&gt;）的最新作品《你的名字》（&lt;span lang="ja"&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;君&lt;/rb&gt;
+   &lt;rt&gt;きみ&lt;/rt&gt;&lt;/ruby&gt;の
+  &lt;ruby&gt;
+   &lt;rb&gt;名&lt;/rb&gt;
+   &lt;rt&gt;な&lt;/rt&gt;&lt;/ruby&gt;は。&lt;/span&gt;）最近成爲廣受關注的話題。這部動畫電影8月26日在日本公映後，連續9週票房第一，累計到目前爲止觀影人次超過1320萬人，票房收入超過180億日圓，成爲首個突破100億的非宮崎駿導演的動畫電影。10月21日在台灣上映後，也在短短一週內成爲台灣史上最賣座的日本動畫電影。另外，《你的名字》也於12月2日在中國大陸上映——這在日本動畫界是相當難得的，也有望繼續創下新的記錄。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/kiminonawa-title.jpg" class="img-fluid img-rounded d-block m-x-auto" width="600" /&gt;&lt;/p&gt;
+
+&lt;p&gt;在《你的名字》發佈之前，新海誠的動畫一直被認爲是小衆的藝術電影，商業上從未取得巨大的成功。在他之前導演的所有動畫中，票房收入最高的是2013年發佈，收入1.5億日圓的《言葉之庭》（&lt;span lang="ja"&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;言&lt;/rb&gt;
+   &lt;rt&gt;こと&lt;/rt&gt;&lt;/ruby&gt;の
+  &lt;ruby&gt;
+   &lt;rb&gt;葉&lt;/rb&gt;
+   &lt;rt&gt;は&lt;/rt&gt;&lt;/ruby&gt;の
+  &lt;ruby&gt;
+   &lt;rb&gt;庭&lt;/rb&gt;
+   &lt;rt&gt;にわ&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;※）；這一次製作委員會給自己定的成功標準只不過是《言葉之庭》的10倍，15億日圓，比實際收入少10倍多。 《你的名字》的受歡迎程度，遠遠超越了任何人的期待。&lt;/p&gt;
+
+&lt;p&gt;
+ &lt;small class="text-muted"&gt;※《言葉之庭》是正式譯名，但這種機械式轉寫，導致名稱在漢語裏沒有任何意義。「&lt;span lang="ja"&gt;言の葉&lt;/span&gt;」是帶有古文詩歌味道的詞，意思是「詞彙」，而「&lt;span lang="ja"&gt;庭&lt;/span&gt;」指「花園」。的確不好翻譯，《單詞的花園》在漢語聽起來很奇怪，也無法體現原文中「&lt;span lang="ja"&gt;葉&lt;/span&gt;」字的一語雙關。&lt;/small&gt;&lt;/p&gt;
+
+&lt;h4 id="漫無目的的故事情節"&gt;漫無目的的故事情節？&lt;/h4&gt;
+
+&lt;p&gt;《你的名字》講述的是住在東京的少年立花瀧（&lt;span lang="ja"&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;立花&lt;/rb&gt;
+   &lt;rt&gt;たちばな&lt;/rt&gt;&lt;/ruby&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;瀧&lt;/rb&gt;
+   &lt;rt&gt;たき&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;）和住在飛驒※深山裏的少女宮水三葉（&lt;span lang="ja"&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;宮水&lt;/rb&gt;
+   &lt;rt&gt;みやみず&lt;/rt&gt;&lt;/ruby&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;三葉&lt;/rb&gt;
+   &lt;rt&gt;みつは&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;），在千年不遇的彗星造訪日本上空之前一個月，突然開始不時交換靈魂，經歷對方的日常生活，進而慢慢愛上對方，決定一定要去找到對方。從這個極具欺騙性，浪漫喜劇式的初始設定，隨着幾次晴天霹靂的劇情轉折，逐漸展開了一個涉及時間穿越、死裏回生、乃至神道傳說的苦樂參半，令人心碎的奇幻故事。（爲了不爆雷，我只能寫到這麼詳細了）&lt;/p&gt;
+
+&lt;p&gt;
+ &lt;small class="text-muted"&gt;※漢語讀音ㄊㄨㄛˊ / tuó&lt;/small&gt;&lt;/p&gt;
+
+&lt;figure class="figure d-block m-x-auto"&gt;&lt;img src="/img/kiminonawa-irekawatteru.jpg" class="figure-img img-fluid img-rounded d-block m-x-auto" width="600" /&gt; 
+ &lt;figcaption class="figure-caption text-xs-center"&gt;「該不會是…」「…我們在睡夢中…」「…交換靈魂了？！」&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;電影的情節令人眼花繚亂，好像發高燒時做的一場奇怪的夢，直到電影結束時也似乎看不到連貫統一的主題。因此，一些人批判這部電影沒有什麼專業水準，著名的漫畫家江川達也（&lt;span lang="ja"&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;江川&lt;/rb&gt;
+   &lt;rt&gt;えがわ&lt;/rt&gt;&lt;/ruby&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;達也&lt;/rb&gt;
+   &lt;rt&gt;たつや&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;）甚至說「從專業的角度看，沒有任何趣味」，並因影迷們「不可理喻」的瘋狂追捧，稱《你的名字》是「法西斯電影」（&lt;a href="http://news.livedoor.com/article/detail/12111695/"&gt;livedoor新聞&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;的確，如果把故事情節做一個100字的總結，會覺得電影充滿漏洞，缺乏深刻的意義，甚至「中二病」十足。但若把眼光放在宏觀的劇情概要上，恐怕會完全錯失這部電影的美妙之處。《你的名字》對故事的闡述方法有別於以往新海誠作品，並不是試圖通過抽象情節中的「教訓」來感化觀衆，而是令觀衆彷彿身臨其境，完全沉浸在那107分鐘的每一個具體的瞬間：一幀又一幀絢麗的動畫、一行又一行富有詩意的對白、一次又一次在心裏喚醒的無法抵禦的莫名感動。而從這場夢中醒來後，當然可以嘲笑夢的奇怪與自相矛盾，但這都無法事後否認在夢境中所經歷的美妙。&lt;/p&gt;
+
+&lt;h4 id="新海誠以往作品的闡述視角"&gt;新海誠以往作品的闡述視角&lt;/h4&gt;
+
+&lt;p&gt;新海誠最早期導演的動畫電影，包括《雲之彼端，約定的地方》&lt;span lang="ja"&gt;（
+  &lt;ruby&gt;
+   &lt;rb&gt;雲&lt;/rb&gt;
+   &lt;rt&gt;くも&lt;/rt&gt;&lt;/ruby&gt;のむこう、
+  &lt;ruby&gt;
+   &lt;rb&gt;約束&lt;/rb&gt;
+   &lt;rt&gt;やくそく&lt;/rt&gt;&lt;/ruby&gt;の
+  &lt;ruby&gt;
+   &lt;rb&gt;場所&lt;/rb&gt;
+   &lt;rt&gt;ばしょ&lt;/rt&gt;&lt;/ruby&gt;）&lt;/span&gt;與相當著名的《秒速5公分》（&lt;span lang="ja"&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;秒速&lt;/rb&gt;
+   &lt;rt&gt;びょうそく&lt;/rt&gt;&lt;/ruby&gt;５センチメートル&lt;/span&gt;）都是以「回憶」的視角闡述故事情節。在看這些電影時，很容易想象是一位老人含淚和他的孩子講述自己年輕時的悲慘故事。老人每段輕聲重述的往事，每一幅細緻描繪的圖畫，都圍繞最終希望孩子學習的功課：不管是《雲之彼端》中對堅持青春理想的鼓勵，還是《秒速》中對非理性地依戀必將消失的過去的警告。&lt;/p&gt;
+
+&lt;figure class="figure d-block m-x-auto"&gt;&lt;img src="/img/byousoku-sakura.jpg" class="figure-img img-fluid img-rounded d-block m-x-auto" width="600" /&gt; 
+ &lt;figcaption class="figure-caption text-xs-center"&gt;「櫻花飄落的速度，知道嗎？每秒5公分。」&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;固然，這種闡述方法令每一部電影有非常清楚的主旋律，並且可以帶給有類似回憶的觀衆極大的感情衝擊與共鳴（《秒速》因經常令觀衆——包括我——悲痛欲絕而載入動畫史冊），但帶有明顯目的的情節與台詞使觀衆永遠只是故事發展的旁觀者，很難牽深切掛劇中發生的事情。以《秒速》爲例，第一部分〈櫻花抄〉（&lt;span lang="ja"&gt;
+  &lt;ruby&gt;
+   &lt;rb&gt;桜花抄&lt;/rb&gt;
+   &lt;rt&gt;おうかしょう&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;※）講述的是故事的兩位主角，小學的同班同學貴樹（&lt;span lang="ja"&gt;たかき&lt;/span&gt;）與明里（&lt;span lang="ja"&gt;あかり&lt;/span&gt;）的相識，成長，與各自搬到不同城市後的思念及萌生的戀愛。但與小學生格格不入的充滿寓意的對白，極具選擇性的情節跳躍，再加上悲傷而憂愁的配樂，使觀衆感受到的並不是小學生的天真爛漫，初戀的百感交集，或成長過程的漫長無盡。觀衆的心裏體會的是敘述者對這段青春的留戀與遺憾，但也同時不禁發覺敘述者厚厚的有色眼鏡與其帶來的情節失真。&lt;/p&gt;
+
+&lt;p&gt;
+ &lt;small class="text-muted"&gt;※又是難翻譯的標題。「抄」是古代日本的容量單位，十分之一勺。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;在新海誠隨後的作品當中，「回憶的視角」與「表達特定思想的劇情」的特點逐漸淡化。特別是短片動畫《言葉之庭》，完全拋棄了回憶的闡述，在劇情味道的方面也有很大改變。《言葉之庭》不再試圖傳述任何人生的功課，而是用極其簡單的故事，試圖還原近1500年前創作的日本最早的詩集《萬葉集》（
+ &lt;ruby lang="ja"&gt;
+  &lt;rb&gt;万葉集&lt;/rb&gt;
+  &lt;rt&gt;まんようしゅう&lt;/rt&gt;&lt;/ruby&gt;）中古老戀歌的愛情觀。&lt;/p&gt;
+
+&lt;figure class="figure d-block m-x-auto"&gt;&lt;img src="/img/kotonoha-aikoi.jpg" class="figure-img img-fluid img-rounded d-block m-x-auto" width="600" /&gt; 
+ &lt;figcaption class="figure-caption text-xs-center"&gt;比「愛」更古老，「孤悲」的故事 —— 《言葉之庭》預告片 
+  &lt;br /&gt; &lt;span class="text-muted"&gt;（日語中，「&lt;span lang="ja"&gt;愛&lt;/span&gt;」是漢語借詞；而「
+   &lt;ruby lang="ja"&gt;
+    &lt;rb&gt;恋&lt;/rb&gt;
+    &lt;rt&gt;こい&lt;/rt&gt;&lt;/ruby&gt;」是日本原始詞彙，「&lt;span lang="ja"&gt;孤悲&lt;/span&gt;」是一種詩歌裏用到的，諧音的拼寫方式）&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;但《言葉之庭》因其可預測性極高的簡單劇情，和把背景描繪與場景氛圍作爲重點的動畫，還是不能讓觀衆的心理狀態和影片人物的喜怒哀樂吻合。整部電影仍然受其非常強烈的目的性所限制，即描繪《萬葉集》式的戀情。就我自己來說，看完了之後的確感覺《言葉之庭》把《萬葉集》的美妙以現代的方式完璧地再現了，但比起新海誠大部分的作品，感情衝擊要小得多，之後對情節的淡忘也快得多。&lt;/p&gt;
+
+&lt;h4 id="視角改變帶來的衝擊"&gt;視角改變帶來的衝擊&lt;/h4&gt;
+
+&lt;p&gt;與這些之前的作品不同，《你的名字》的視角是第一人稱，現在進行式的。音樂，動畫，與台詞的配合都爲了達到一個目的：使觀衆準確地看到，不，是親身體會，主人公在每一個時刻的想法與情感。這種闡述方法的改變，體現在電影的方方面面。&lt;/p&gt;
+
+&lt;p&gt;以音樂爲例，雖然電影整體的感覺偏沉重，但是這並沒有像以往那樣導致從頭到尾放上與「主題」符合的憂鬱配樂。新海誠一直以來極爲優秀的音樂選材能力，這次不再服務於傳達故事整體想要表達的情感，而是淋漓盡致地描繪電影每個瞬間中主人公的心境。《你的名字》的配樂由RADWIMPS這個很難分類的流行樂隊作曲與演奏，而正是歌曲風格的多樣性成功地呈現出多樣的意境：充滿青春活力的搖滾配合主人公高中生活的輕快與滑稽，令人提心吊膽的交響樂傳遞突然的恐慌與失落，悠揚而緩慢的鋼琴聲清晰地渲染苦中帶甜的久別重逢。&lt;/p&gt;
+
+&lt;p&gt;視覺方面也是如此。新海誠的作品一直以「視覺美」而著名，只不過以往那種對視覺意境的營造致力於爲電影主題定調：比如《言葉之庭》中對天氣與季節的細緻實現與電影中所有的其他元素一樣，是爲了映射《萬葉集》詩歌的味道。而《你的名字》中的視覺元素則爲了精準地表現主人公的心情。比如，在女主人公三葉（借用男主人公瀧的身體）第一次見到憧憬已久的東京的那一幕，對光影的特殊處理將這位一輩子沒有出過鄉村的少女的心情表現的淋漓盡致。（這一幕在電視台採訪新海誠時還作爲重點特別聚焦過）&lt;/p&gt;
+
+&lt;figure class="figure d-block m-x-auto"&gt;&lt;img src="/img/kiminonawa-tokyo.jpg" class="figure-img img-fluid img-rounded d-block m-x-auto" width="600" /&gt;&lt;/figure&gt;
+
+&lt;p&gt;這種描述方法，使觀衆在看這部電影的時候，在自己的心裏也會上演與劇中人物同樣的情感過山車。就算我這一個幾乎從來沒有因看電影哭過的人（《秒速5公分》是唯一其他的例外），看到最後也不禁留下眼淚。這些感動既不像《秒速》那樣出自觀衆對自身經歷的回憶，也不像《言葉》那樣繼承古詩的意境，而是因爲同情經歷觀衆理應毫無共鳴的離奇故事，生活在架空世界中的人。&lt;/p&gt;
+
+&lt;h4 id="總結"&gt;總結&lt;/h4&gt;
+
+&lt;p&gt;在看《你的名字》時，觀衆彷彿真的變成了瀧和三葉，和他們一起哭，一起笑，可是在這美麗而短暫的107分鐘結束後，雖然能夠從故事的結局感受到一些暖心的完成感，但又總是感到一陣暗暗的空虛。至少從我個人而言，很少有任何電影讓我有這種觀看時惋惜作品每一分分秒秒，之後還因知道對電影的回憶必將漸漸淡去而憂愁的心情。通過使人這樣極度「入戲」的闡述方法，《你的名字》以觀衆親身觀看這部傑作的經歷，而非劇情中虛構的情節，告訴我們 &lt;strong&gt;「夢要好好珍惜，因爲醒來之後總會消失」&lt;/strong&gt;※。&lt;/p&gt;
+
+&lt;p&gt;
+ &lt;small class="text-muted"&gt;※電影台詞&lt;/small&gt;&lt;/p&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">無情的歷史狂輪</title>
   <link rel="alternate" href="http://www.example.com/2016/11/history-progress.html" />
   <id>urn:http-www-example-com:-2016-11-history-progress-html</id>
-  <published>2016-11-04T04:00:00Z</published>
-  <updated>2016-11-04T04:00:00Z</updated>
+  <published>2016-11-03T15:00:00Z</published>
+  <updated>2016-11-03T15:00:00Z</updated>
   <author>
    <name>文尋</name></author>
   <content type="html">&lt;html&gt;
@@ -33,17 +165,17 @@
 
 &lt;p&gt;&lt;img src="/img/lishichelun.jpg" class="img-fluid img-rounded d-block m-x-auto" /&gt;&lt;/p&gt;
 
-&lt;p&gt;隨後，中國共產黨駕着「歷史的車輪」，將大陸人民帶入了一個又一個劫難：「三反」、「四清」、「大躍進」、「文革」……每一次，中共都站在了歷史正確的那一面，而反動勢力無一不被徹底瓦解……&lt;/p&gt;
+&lt;p&gt;隨後，中國共產黨駕着「歷史的車輪」，將大陸人民帶入了一個又一個劫難：「三反」、「四清」、「大躍進」、「文革」……每一次，歷史的車輪都沒有倒轉。每一次，中共都站在了歷史「正確」的那一面，而反動勢力無一例外，被擋不住的歷史潮流徹底瓦解。&lt;/p&gt;
 
-&lt;p&gt;時至今日，中共的歷史號列車仍然全速前進，仗着「改革開放」後復甦的經濟奔向下一站：富國強兵的「中華民族偉大復興」。而所謂的反動派，則一邊被扔到炙熱的機車鍋爐裏燃燒，一邊大聲喊叫：「你們是倒行逆施！」「歷史會懲罰你們的罪惡！」「世界潮流浩浩蕩蕩……」&lt;/p&gt;
+&lt;p&gt;時至今日，中共的歷史號列車仍然全速前進，仗着「改革開放」後復甦的經濟奔向下一站：富國強兵的「中華民族偉大復興」。而所謂的反動派，則一邊被扔到炙熱的機車鍋爐裏燃燒，一邊大聲喊叫：「你們是倒行逆施！」「歷史會懲罰你們的罪惡！」「世界潮流浩浩蕩蕩……！」&lt;/p&gt;
 
-&lt;p&gt;歷史的狂輪是冷酷無情的。它有時可以帶動全球的正義覺醒，有時則使邪惡的陰影籠罩天下。我們太容易妄想，世界潮流一定是前進的，總有一天會用事實使惡者淪爲笑柄。正義戰勝邪惡唯一的方法，往往是與歷史潮流孤軍奮戰，試圖調轉失控的暴走列車。&lt;/p&gt;&lt;/html&gt;</content></entry>
+&lt;p&gt;我們太容易妄想，世界潮流一定是前進的，賞善罰惡的，總有一天會用事實使惡者淪爲笑柄。但歷史的狂輪是冷酷無情，反覆無常的。它有時似乎帶動全球的正義覺醒，轉身則用邪惡的陰影遮蓋天下。我們需要紀念而學習的，不應只是那些因時間的巧合得以自稱推動歷史，而更該是那些爲了堅持維護正義而與浩浩蕩蕩的世界潮流孤軍奮戰，甚至最終被歷史車輪碾地粉身碎骨，遺臭千年的「反動分子」。&lt;/p&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">爲何又開始一個網誌？</title>
   <link rel="alternate" href="http://www.example.com/2016/10/begin.html" />
   <id>urn:http-www-example-com:-2016-10-begin-html</id>
-  <published>2016-10-04T04:00:00Z</published>
-  <updated>2016-10-04T04:00:00Z</updated>
+  <published>2016-10-03T15:00:00Z</published>
+  <updated>2016-10-03T15:00:00Z</updated>
   <author>
    <name>文尋</name></author>
   <content type="html">&lt;html&gt;
