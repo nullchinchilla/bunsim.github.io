@@ -24,8 +24,10 @@ function restorent() {
 function trans2simp() {
     marknt();
 
+    $("title").each(translit);
     $(".translit").each(translit);
     $("p").each(translit);
+    $("li").each(translit);
     $("blockquote").each(translit);
     $("h1").each(translit);
     $("h2").each(translit);

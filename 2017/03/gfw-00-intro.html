@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+  <head>
+    <meta charset="utf-8">
+    <title>剖析防火長城[0]：爲何寫這個話題？</title>
+    <meta name="description" content="很長時間以來，我對中國當局對互聯網的控制有着特別的興趣。我在大學研究的課題是網絡安全，特別是如何研發簡單，有效的網絡系統來保護一般網民的隱私。而我的故鄉中國，全球網民最多的國家，卻有一個安全與隱私受當權者深度破壞的互聯網——這怎能不引起我的注意與憂心呢？  在個人網誌上長篇大論中國互聯網管控的細節，看似毫無意義。中國網民好像並不需要一個外籍研究生對他們每日親歷的網絡環境從理論的角度評頭論足，而別國根本沒有接近中國那麼嚴密的網絡審查，對這個話題更是沒有自然的興趣。然而，有兩個理由使我一直想寫一系列文章討論這...">
+    <meta name="author"      content="文尋">
+    <meta name="keywords"    content="GFW, 網絡安全">
+    <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://bunsim.me/2017/03/gfw-00-intro.html">
+    <meta property="og:title" content="剖析防火長城[0]：爲何寫這個話題？">
+    <meta property="og:description" content="很長時間以來，我對中國當局對互聯網的控制有着特別的興趣。我在大學研究的課題是網絡安全，特別是如何研發簡單，有效的網絡系統來保護一般網民的隱私。而我的故鄉中國，全球網民最多的國家，卻有一個安全與隱私受當權者深度破壞的互聯網——這怎能不引起我的注意與憂心呢？  在個人網誌上長篇大論中國互聯網管控的細節，看似毫無意義。中國網民好像並不需要一個外籍研究生對他們每日親歷的網絡環境從理論的角度評頭論足，而別國根本沒有接近中國那麼嚴密的網絡審查，對這個話題更是沒有自然的興趣。然而，有兩個理由使我一直想寫一系列文章討論這...">
+    <link rel="icon"      href="/favicon.ico">
+    <link rel="canonical" href="https://bunsim.me/2017/03/gfw-00-intro.html">
+    <link rel="next" href="/2016/12/kiminonawa-review.html">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/pygments.css">
+    <link rel="stylesheet" type="text/css" href="/css/scribble.css">
+    <link rel="stylesheet" type="text/css" href="/css/custom.css">
+    <!-- Feeds -->
+    <link rel="alternate" type="application/atom+xml"
+          href="/feeds/all.atom.xml" title="Atom Feed">
+    <link rel="alternate" type="application/rss+xml"
+          href="/feeds/all.rss.xml" title="RSS Feed">
+    <!-- JS -->
+  </head>
+  <!--[if lt IE 7 ]> <body class="ie6" lang="zh-tw"> <![endif]-->
+  <!--[if IE 7 ]>    <body class="ie7" lang="zh-tw"> <![endif]-->
+  <!--[if IE 8 ]>    <body class="ie8" lang="zh-tw"> <![endif]-->
+  <!--[if IE 9 ]>    <body class="ie9" lang="zh-tw"> <![endif]-->
+  <!--[if (gt IE 9)]><body class="modern" lang="zh-tw"> <![endif]-->
+  <!--[!(IE)]><!-->  <body class="notIE modern"> <!--<![endif]-->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="big-title no-translit" lang="zh-tw"><a href="/">文尋的網誌</a></h1>
+        </div>
+      </div>
+      <div class="row">
+
+        <div class="col-lg-12 text-xs-right">
+          <a href="javascript:trans2simp()" lang="zh-cn">转换为简体中文</a>
+        </div>
+      </div>
+
+      <div class="row">
+        <!-- Main column -->
+        <div id="content" class="col-md-8">
+
+
+
+
+
+          <hr>
+<article>
+  <header>
+    <h1>剖析防火長城[0]：爲何寫這個話題？</h1>
+    <div class='date-and-tags'><span class="text-muted translit">寫作日期：
+<time datetime="2017-03-21" pubdate="true">2017-03-21</time></span></div>
+  </header>
+
+<p>很長時間以來，我對中國當局對互聯網的控制有着特別的興趣。我在大學研究的課題是網絡安全，特別是如何研發簡單，有效的網絡系統來保護一般網民的隱私。而我的故鄉中國，全球網民最多的國家，卻有一個安全與隱私受當權者深度破壞的互聯網——這怎能不引起我的注意與憂心呢？</p>
+
+<p>在個人網誌上長篇大論中國互聯網管控的細節，看似毫無意義。中國網民好像並不需要一個外籍研究生對他們每日親歷的網絡環境從理論的角度評頭論足，而別國根本沒有接近中國那麼嚴密的網絡審查，對這個話題更是沒有自然的興趣。然而，有兩個理由使我一直想寫一系列文章討論這個話題：</p>
+
+<ul>
+ <li>絕大多數中國網民對網絡管制實際上是「充耳不聞」，並不真的瞭解其運作方式與社會影響。雖然海外有很多學者深入研究中國網絡管制的技術細節，但即便是想瞭解的中國人，甚至是翻牆軟件的開發者，都因語言障礙對網絡審查系統的能力一知半解。</li>
+ <li>中國當局極其巧妙地使用其對互聯網的控制，相當成功地進行一種廣義的「語言改造」，成爲了信息時代專制政權的先驅。這種通過管制網絡通訊進行的社會壓迫，不容易引起民衆反抗，且可以進行文化層面的控制與腐蝕，所有人都需要高度警惕。瞭解互聯網「中國模式」的可怕，才能抑制其已經開始的全球擴散。</li></ul>
+
+<p>接下來幾個星期，我會逐步寫一系列文章論中國互聯網政策的方方面面——「剖析防火長城」，希望可以以此略微減少漢語世界這方面文章的極度貧乏。</p>
+
+<p><em>「剖析防火長城」</em></p>
+
+<ul>
+ <li><strong>[0]：爲何寫這個話題？</strong></li>
+ <li><span class="text-muted">[1]：網絡管控的歷史淵源（未完成）</span></li>
+ <li><span class="text-muted">[2]：防火長城——國家網絡審查系統的模範（未完成）</span></li>
+ <li><span class="text-muted">[3]：金盾工程與「電子警察國家」（未完成）</span></li>
+ <li><span class="text-muted">[4]：「網絡主權」的全球潮流（未完成）</span></li>
+ <li><span class="text-muted">[5]：互聯網未來的絕望與希望（未完成）</span></li></ul>
+  <footer>
+    <p class="text-muted"><small>標籤：<span class="no-translit"  lang="zh-tw"><span class="tags"><a href="/tags/GFW.html">GFW</a>, <a href="/tags/網絡安全.html">網絡安全</a></span></span></small></p>
+    <script type="text/javascript">
+      var disqus_shortname = 'bunsim';
+      (function() {
+          var dsq = document.createElement('script');
+          dsq.type = 'text/javascript';
+          dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <div id="disqus_thread"></div>
+    <ul class="pager">
+
+    <li class="next">
+      <a href="/2016/12/kiminonawa-review.html"><em>影評：《你的名字》</em> &rarr;</a>
+    </li>
+    </ul>
+  </footer>
+</article>
+        </div>
+
+        <div class="col-md-4">
+          <h5>站內搜尋（測試）</h5>
+          <form method="get" id="search">
+            <div class="form-group">
+              <input type="search" id="search-q" class="form-control">
+            </div>
+          </form>
+          <h5>分類標籤</h5>
+          <ul class="no-translit">
+
+<li><a href="/tags/GFW.html">GFW</a></li>
+
+<li><a href="/tags/政治.html">政治</a></li>
+
+<li><a href="/tags/日本.html">日本</a></li>
+
+<li><a href="/tags/歷史.html">歷史</a></li>
+
+<li><a href="/tags/網絡安全.html">網絡安全</a></li>
+
+<li><a href="/tags/通知.html">通知</a></li>
+
+<li><a href="/tags/電影.html">電影</a></li>
+          </ul>
+        </div>
+
+      </div>
+      <footer>
+        <hr />
+        <p>
+          所有文章版權按
+          <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW">CC-BY-NC-ND</a> <br>
+          <small>簡而言之，轉載必須<b>標示作者</b>，<b>非商業性</b>，並<b>不做改動</b></small>
+        </p>
+      </footer>
+    </div>
+    <!-- </body> JS -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js"></script>
+    <script>
+    $("#search").on('submit', function() {
+      var quer = $("#search-q").val();
+      var url = "https://duckduckgo.com/?q=site:bunsim.me+" + quer;
+      window.open(url, "_blank");
+      return false
+    });
+    </script>
+    <script src="/js/tongwen/tongwen_core.js"></script>
+    <script src="/js/tongwen/tongwen_table_t2s.js"></script>
+    <script src="/js/tongwen/tongwen_table_pt2s.js"></script>
+    <script src="/js/custom.js"></script>
+  </body>
+</html>
