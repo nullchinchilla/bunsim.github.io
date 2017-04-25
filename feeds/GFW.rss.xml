@@ -4,9 +4,66 @@
   <title>文尋的網誌: Posts tagged 'GFW'</title>
   <description>文尋的網誌: Posts tagged 'GFW'</description>
   <link>https://bunsim.me/tags/GFW.html</link>
-  <lastBuildDate>Tue, 21 Mar 2017 04:00:00 UT</lastBuildDate>
-  <pubDate>Tue, 21 Mar 2017 04:00:00 UT</pubDate>
+  <lastBuildDate>Mon, 24 Apr 2017 04:00:00 UT</lastBuildDate>
+  <pubDate>Mon, 24 Apr 2017 04:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>剖析防火長城[1]：網絡管控的歷史淵源</title>
+   <link>https://bunsim.me/2017/04/gfw-01-history.html</link>
+   <guid isPermaLink="false">urn:https-bunsim-me:-2017-04-gfw-01-history-html</guid>
+   <pubDate>Mon, 24 Apr 2017 04:00:00 UT</pubDate>
+   <description>
+&lt;h4 id="中國互聯網的萌芽與管控的政策基礎"&gt;中國互聯網的萌芽與管控的政策基礎&lt;/h4&gt;
+
+&lt;p&gt;1987年9月20日，中國的第一封電子郵件發送到了德國的卡爾斯魯厄理工學院：「越過長城，走向世界」。互聯網時代終於來到了中國境內。從此，互聯網在中國國內開始了無止境的普及：2005年，全中國上網人數達到1億，2016年則達到7億，中國很快成爲全世界網民最多的國家。如今的中國已經是一個高度聯網的社會，越來越多的人在通訊、購物、支付等等生活的各個方面依賴網絡，甚至某些網絡技術（如移動支付）已經達到世界數一數二的普及度。&lt;/p&gt;
+
+&lt;p&gt;不過當互聯網突然使信息的傳播變得快速與便捷的同時，中國當局並沒有忽略將以往應用在傳統媒體上的言論與信息規制同樣應用到網上資源。在中國互聯網的萌芽時期，不計其數的授權審查制度的規定陸續出台：1997年12月的《計算機信息網絡國際聯網安全保護管理辦法》、2000年9月20日的《互聯網信息服務管理辦法》、等等。這些規定的一大特點是籠統地禁止傳播「不良」信息：&lt;/p&gt;
+
+&lt;blockquote class="blockquote"&gt;互聯網接入服務提供者應對接入的境內外網站信息進行檢查監督，拒絕接入發布有害信息的網站，消除有害信息對我國網絡用戶的不良影響。 
+ &lt;footer class="blockquote-footer"&gt;&lt;a href="http://www.isc.org.cn/hyzl/hyzl/listinfo-15599.html"&gt;《中國互聯網行業自律公約》&lt;/a&gt;第十條&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;當然，「有害信息」是什麼，「檢查監督」技術上意味着什麼，並沒有明確的定義；這些法令的目的不過是將耳濡目染的
+ &lt;b&gt;傳統媒體審查制度照搬到互聯網&lt;/b&gt;而已。&lt;/p&gt;
+
+&lt;h4 id="網絡管控系統的逐步實施"&gt;網絡管控系統的逐步實施&lt;/h4&gt;
+
+&lt;p&gt;但只出台管制互聯網的規定是遠遠不足的。諸多的專制政權都通過類似的政令，試圖像它們以往把持傳統媒體那樣把持互聯網，但這並沒有防止網上通訊如脫繮的野馬瓦解當局的輿論控制，甚至引爆如「阿拉伯之春」的政治變革。中國政府很清楚，有效地管制互聯網上的信息傳播是一項需要花費大量人力及物力，並且當時沒有任何政權成功完成的莫大工程。&lt;/p&gt;
+
+&lt;p&gt;於是，中華人民共和國公安部在1998年創立了將持續數年的全國網絡監控與審查項目：「全國公安工作資訊化工程」，通稱
+ &lt;b&gt;「金盾工程」&lt;/b&gt;，以開發世界一流的網絡監控和審查系統，嚴格落實各項規定紙面上的管控制度。&lt;/p&gt;
+
+&lt;p&gt;根據目前已公開的信息，金盾工程分爲一期及二期。
+ &lt;b&gt;一期工程完成與2006年，似乎主要致力於搭建各種軟硬件的基礎設施以加強監控與封鎖的能力&lt;/b&gt;，而非顯著地增強民衆看得到的網絡審查制度。比如在2002年12月，&lt;a href="https://web.archive.org/web/20030126115916/http://www.adsale.com.hk/tw/iframe/anews-s3-n4.asp"&gt;金盾工程高層人士出席&lt;/a&gt;「2002年中國大型機構資訊化展覽會」，並購買大量參加展覽會的西方的高科技監控設備（人臉識別，網絡監控，等等），開始全方面監控互聯網上的一舉一動，但並沒有馬上改變任何政策。無法訪問的網站以及網上因言獲罪的網民的數量並沒有顯著增加，仍保持在普通民衆大部分情況下注意不到的程度。但在這幾年間，金盾工程悄悄監控的範圍不斷擴大，在第一期結束時，全國的各種通訊設施的監控系統已經基本完成。據&lt;a href="http://www.rfa.org/mandarin/yataibaodao/jintungongcheng-20060408.html"&gt;自由亞洲電台引用新華社報道&lt;/a&gt;，第一期結束時金盾工程已幫助公安部門採集了全中國96%人口的個人信息數據庫。&lt;/p&gt;
+
+&lt;p&gt;在2006年，金盾工程進入第二期。與第一期相比，官方與非官方關於金盾第二期發表的信息甚少，筆者花了很長時間也僅僅找到了幾分措辭曖昧，官腔濃厚地可笑的新聞，如「記世資訊」的以下報道：&lt;/p&gt;
+
+&lt;blockquote class="blockquote"&gt;2006年開始建設的『金盾二期工程』，建設目標是在一期工程的基礎上進行擴充、擴展、完善和提高，增加公安業務信息應用類型，拓展公安信息系統的應用深度和廣度，進一步提高公安工作的信息化程度。 
+ &lt;footer class="blockquote-footer"&gt;&lt;a href="https://web.archive.org/web/20090531181814/http://www.ccwresearch.com.cn/store/article_content.asp?articleId=682&amp;amp;Columnid=106&amp;amp;view="&gt;《金盾二期工程將以信息整合應用為建設重點》&lt;/a&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class="blockquote"&gt;公安信息化經過十幾年的發展，特別是近兩年來『金盾工程』的大力推進……從二期工程的發展目標來看，以底層信息的簡單應用為主向以高端信息的挖掘為主轉移成為了今後發展的必然方向，2006年將成為這一趨勢的分水嶺。 
+ &lt;footer class="blockquote-footer"&gt;&lt;a href="https://web.archive.org/web/20090531181814/http://www.ccwresearch.com.cn/store/article_content.asp?articleId=682&amp;amp;Columnid=106&amp;amp;view="&gt;《2006公安信息化建設進入承前啟後的階段 投入基本持平》&lt;/a&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;但從這些報道中可以得出一個比較明顯的結論：
+ &lt;b&gt;金盾工程第二期的目的，就是「實戰」應用一期中建設的底層系統與採集的數據&lt;/b&gt;。2006年後實際能觀測到的趨勢也是如此：花重金購入的網絡審查設備終於被啓用，越來越多的內容被難以規避地自動封鎖；各種大數據分析算法的研發使得公安部門可以從監視系統提供的海量數據得出實質的結論，越來越多違反當局網絡規定的網民被高效率地鎖定，因在網上的發言「被喝茶」等的事件也自金盾工程第二期的啓動顯著增長。&lt;/p&gt;
+
+&lt;p&gt;二期金盾工程開始的新聞後，關於網絡管控技術建設的官方發表基本完全消失了。但從外界的觀察來看，在金盾工程第二期的目標達到後，當局的通訊監控與管制技術在總體設計上並沒有質的改變，只是使用該技術實施的網絡政策越來越嚴厲，特別是2012年習近平政府上台後，「網絡主權」的概念被大肆鼓吹，增強管控的步伐顯著加快：2013年以「打擊網上謠言」名義抓捕幾百名網民，2014年徹底封鎖Google一切網上服務，2015年對GitHub發動了第一次使用金盾工程系統的大規模網絡攻擊，2016年以《反恐法》制度化網絡服務商配合網絡管控的義務，2017年爲「翻牆」行爲正式定罪……&lt;/p&gt;
+
+&lt;h4 id="結論"&gt;結論&lt;/h4&gt;
+
+&lt;p&gt;從互聯網在中國的開始，當局就執意使用技術以及政策上的措施嚴管網絡通訊。不管未來互聯網對自由通訊的渴望會不會有一天衝破當局的層層阻攔，至少目前來看，隨着互聯網普及率的增加以及通訊技術的提高，管控的力度一直與時俱進地
+ &lt;b&gt;循環上升：新規定的發表，爲了執行規定而升級技術，然後爲了更充分發揮新技術而制定更嚴厲的規定。&lt;/b&gt;中國當局似乎下死決心，一定要讓國內的互聯網走上輿論管制越來越苛刻，與外界的聯繫越來越困難，永遠無法「越過長城，走向世界」的道路。&lt;/p&gt;
+
+&lt;p&gt;（我在寫這篇文章的時候，發現很多內容（特別是最近幾年的網絡政策相關文件）非常難以找到相關資料，內容量真的有些令人失望。下一篇文章，將主要介紹網絡內容審查系統——「防火長城」——的技術構造，我在那方面投入的精力比較多，應該會有更多值得寫，值得讀的內容。）&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;「剖析防火長城」&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="/2017/03/gfw-00-intro.html"&gt;[0]：爲何寫這個話題？&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;[1]：網絡管控的歷史淵源&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;span class="text-muted"&gt;[2]：防火長城——國家網絡審查系統的模範（未完成）&lt;/span&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;span class="text-muted"&gt;[3]：金盾工程與「電子警察國家」（未完成）&lt;/span&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;span class="text-muted"&gt;[4]：「網絡主權」的全球潮流（未完成）&lt;/span&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;span class="text-muted"&gt;[5]：互聯網未來的絕望與希望（未完成）&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>剖析防火長城[0]：爲何寫這個話題？</title>
    <link>https://bunsim.me/2017/03/gfw-00-intro.html</link>
@@ -14,6 +71,7 @@
    <pubDate>Tue, 21 Mar 2017 04:00:00 UT</pubDate>
    <description>
 &lt;p&gt;很長時間以來，我對中國當局對互聯網的控制有着特別的興趣。我在大學研究的課題是網絡安全，特別是如何研發簡單，有效的網絡系統來保護一般網民的隱私。而我的故鄉中國，全球網民最多的國家，卻有一個安全與隱私受當權者深度破壞的互聯網——這怎能不引起我的注意與憂心呢？&lt;/p&gt;
+&lt;!-- more--&gt;
 
 &lt;p&gt;在個人網誌上長篇大論中國互聯網管控的細節，看似毫無意義。中國網民好像並不需要一個外籍研究生對他們每日親歷的網絡環境從理論的角度評頭論足，而別國根本沒有接近中國那麼嚴密的網絡審查，對這個話題更是沒有自然的興趣。然而，有兩個理由使我一直想寫一系列文章討論這個話題：&lt;/p&gt;
 
@@ -27,7 +85,7 @@
 
 &lt;ul&gt;
  &lt;li&gt;&lt;strong&gt;[0]：爲何寫這個話題？&lt;/strong&gt;&lt;/li&gt;
- &lt;li&gt;&lt;span class="text-muted"&gt;[1]：網絡管控的歷史淵源（未完成）&lt;/span&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="/2017/04/gfw-01-history.html"&gt;[1]：網絡管控的歷史淵源（未完成）&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;span class="text-muted"&gt;[2]：防火長城——國家網絡審查系統的模範（未完成）&lt;/span&gt;&lt;/li&gt;
  &lt;li&gt;&lt;span class="text-muted"&gt;[3]：金盾工程與「電子警察國家」（未完成）&lt;/span&gt;&lt;/li&gt;
  &lt;li&gt;&lt;span class="text-muted"&gt;[4]：「網絡主權」的全球潮流（未完成）&lt;/span&gt;&lt;/li&gt;
